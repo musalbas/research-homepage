@@ -1,10 +1,6 @@
-title: Researcher
-url: "http://ankitsultana.me"
-baseurl: "/researcher"
+title: Mustafa Al-Bassam
 
 markdown: kramdown
-
-tracking_id: #
 
 sass:
     style: compressed
