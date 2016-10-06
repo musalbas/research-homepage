@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Mustafa Al-Bassam - Research Homepage
 ---
 
 ## About me
