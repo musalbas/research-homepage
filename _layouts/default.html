@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css">
@@ -12,16 +11,7 @@
     <div class="wrapper">
         <div class="navbar container">
             <span id="author-name" class="alignable pull-left">{{ site.title }}</span>
-            <ul class="alignable pull-right navbar-ul">
-                Research Homepage
-                <!--{% for x in site.data.nav %}
-                    <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-                        {% if forloop.first == false %}
-                            /
-                        {% endif %}
-                    </li>
-                {% endfor %}-->
-            </ul>
+            <span class="alignable pull-right navbar-right">Research Homepage</ul>
         </div>
         <div style="clear:both"></div>
         <hr>

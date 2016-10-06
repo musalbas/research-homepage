@@ -12,6 +12,7 @@ html {
 body {
     margin: 0;
     font-family: Georgia, serif;
+    font-size: 17px;
     height: 100%;
 }
 a {
@@ -40,15 +41,11 @@ hr {
 .navbar {
     padding: 50px 0 50px 0;
 }
-.navbar-ul {
+.navbar-right {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
     margin-left: 20px;
-}
-.nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
 }
 .alignable {
     display: inline-block;

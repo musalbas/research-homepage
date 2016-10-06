@@ -13,7 +13,8 @@ My research interests include the intersection of peer-to-peer systems, distribu
 
 ## Contact
 
-You can email me at [m.albassam@cs.ucl.ac.uk](mailto:m.albassam@cs.ucl.ac.uk).
+- Email: [m.albassam@cs.ucl.ac.uk](mailto:m.albassam@cs.ucl.ac.uk) ([PGP key](https://musalbas.com/pgp.asc))
+- Social: [Twitter](https://twitter.com/musalbas) / [GitHub](https://github.com/musalbas) / [Weblog](https://musalbas.com)
 
 ## Publications
 
