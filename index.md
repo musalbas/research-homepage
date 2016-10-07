@@ -9,8 +9,8 @@ I am a first year PhD student at the [Information Security Research Group](http:
 
 My research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.
 
-- Email: [m.albassam@cs.ucl.ac.uk](mailto:m.albassam@cs.ucl.ac.uk) ([PGP key](https://musalbas.com/pgp.asc))
-- Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com/musalbas) / [GitHub](https://github.com/musalbas) / [LinkedIn](https://www.linkedin.com/in/musalbas)
+Email: [m.albassam@cs.ucl.ac.uk](mailto:m.albassam@cs.ucl.ac.uk) ([PGP key](https://musalbas.com/pgp.asc))<br>
+Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com/musalbas) / [GitHub](https://github.com/musalbas) / [LinkedIn](https://www.linkedin.com/in/musalbas)
 
 ## Peer-reviewed publications
 
