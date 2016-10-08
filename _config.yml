@@ -3,5 +3,4 @@ title: Mustafa Al-Bassam
 markdown: kramdown
 
 sass:
-    style: compressed
     sass_dir: _sass
