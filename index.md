@@ -21,7 +21,3 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 ### 2016
 
 - [Take-away TV: Recharging Work Commutes with Predictive Preloading of Catch-up TV Content](publications/takeawaytv-jsac16.pdf)<br>Dmytro Karamshuk, Nishanth Sastry, Mustafa Al-Bassam, Andy Secker and Jigna Chandaria.<br>IEEE Journal on Selected Areas in Communications (J-SAC), 2016.
-
-## Under submission
-
-- Contour: A Decentralized System for Binary Transparency<br>Mustafa Al-Bassam and Sarah Meiklejohn.
