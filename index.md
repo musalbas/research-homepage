@@ -27,3 +27,9 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 ### 2016
 
 - [Take-away TV: Recharging Work Commutes with Predictive Preloading of Catch-up TV Content](publications/takeawaytv-jsac16.pdf)<br>Dmytro Karamshuk, Nishanth Sastry, Mustafa Al-Bassam, Andy Secker, and Jigna Chandaria.<br>IEEE Journal on Selected Areas in Communications (J-SAC), 2016.
+
+## Preprints
+
+- [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.
+
+- [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.
