@@ -16,7 +16,7 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ### 2018
 
-- [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.<br>ACM Workshop on Blockchain, Cryptocurrencies and Contracts (BCC), 2018.
+- [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.<br>International Workshop on Cryptocurrencies and Blockchain Technology (CBT), 2018.
 
 - [Chainspace: A Sharded Smart Contracts Platform](publications/ChainspaceDL.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2018.
 
