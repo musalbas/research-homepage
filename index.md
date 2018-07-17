@@ -16,6 +16,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ### 2018
 
+- [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.<br>ACM Workshop on Blockchain, Cryptocurrencies and Contracts (BCC), 2018.
+
 - [Chainspace: A Sharded Smart Contracts Platform](publications/ChainspaceDL.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2018.
 
 ### 2017
@@ -37,5 +39,3 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 - [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano and George Danezis.
 
 - [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.
-
-- [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.
