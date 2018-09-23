@@ -32,6 +32,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Preprints
 
+- [Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
+
 - [Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations](publications/airtnt.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Michał Król and Ioannis Psaras.
 
 - [VAMS: Verifiable Auditing of Access to Confidential Data](publications/vams.pdf)<br>Alexander Hicks, Vasilis Mavroudis, Mustafa Al-Bassam, Sarah Meiklejohn and Steven J. Murdoch.
