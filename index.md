@@ -14,6 +14,10 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Peer-reviewed publications
 
+### 2019
+
+- [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2018.
+
 ### 2018
 
 - [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.<br>International Workshop on Cryptocurrencies and Blockchain Technology (CBT), 2018.
@@ -37,7 +41,5 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 - [Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations](publications/airtnt.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Michał Król and Ioannis Psaras.
 
 - [VAMS: Verifiable Auditing of Access to Confidential Data](publications/vams.pdf)<br>Alexander Hicks, Vasilis Mavroudis, Mustafa Al-Bassam, Sarah Meiklejohn and Steven J. Murdoch.
-
-- [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano and George Danezis.
 
 - [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.
