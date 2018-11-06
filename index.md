@@ -16,7 +16,7 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ### 2019
 
-- [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2018.
+- [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2019.
 
 ### 2018
 
