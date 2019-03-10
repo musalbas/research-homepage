@@ -14,6 +14,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Peer-reviewed publications
 
+- [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](publications/pop.pdf)<br>Michał Krol, Alberto Sonnino, Mustafa Al-Bassam, Argyrios Tasiopoulos and Ioannis Psaras.<br>IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2019.
+
 - [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano, Sarah Meiklejohn and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2019.
 
 - [Contour: A Practical System for Binary Transparency](publications/contour-paper.pdf)<br>Mustafa Al-Bassam and Sarah Meiklejohn.<br>International Workshop on Cryptocurrencies and Blockchain Technology (CBT), 2018.
