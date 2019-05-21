@@ -30,6 +30,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Preprints
 
+- [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](publications/lazyledger-paper.pdf)<br>Mustafa Al-Bassam.
+
 - [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.
 
 - [Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
