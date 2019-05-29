@@ -34,7 +34,7 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 - [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.
 
-- [Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
+- [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
 
 - [Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations](publications/airtnt.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Michał Król and Ioannis Psaras.
 
