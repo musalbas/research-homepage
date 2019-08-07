@@ -14,6 +14,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Peer-reviewed publications
 
+- [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.<br>Advances in Financial Technologies (AFT), 2019. To appear.
+
 - [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](publications/pop.pdf)<br>Michał Krol, Alberto Sonnino, Mustafa Al-Bassam, Argyrios Tasiopoulos and Ioannis Psaras.<br>IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2019.
 
 - [Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers](publications/coconut.pdf)<br>Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano, Sarah Meiklejohn and George Danezis.<br>The Network and Distributed System Security Symposium (NDSS), 2019.
@@ -39,5 +41,3 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 - [Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations](publications/airtnt.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Michał Król and Ioannis Psaras.
 
 - [VAMS: Verifiable Auditing of Access to Confidential Data](publications/vams.pdf)<br>Alexander Hicks, Vasilis Mavroudis, Mustafa Al-Bassam, Sarah Meiklejohn and Steven J. Murdoch.
-
-- [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.
