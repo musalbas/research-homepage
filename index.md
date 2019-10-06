@@ -32,6 +32,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Preprints
 
+- [SoK: Communication Across Distributed Ledgers](publications/crosschain.pdf)<br>Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias and William J. Knottenbelt.
+
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](publications/lazyledger-paper.pdf)<br>Mustafa Al-Bassam.
 
 - [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.
