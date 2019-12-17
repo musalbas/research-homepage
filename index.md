@@ -14,7 +14,7 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Peer-reviewed publications
 
-- [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.<br>Advances in Financial Technologies (AFT), 2019. To appear.
+- [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.<br>Advances in Financial Technologies (AFT), 2019.
 
 - [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](publications/pop.pdf)<br>Michał Krol, Alberto Sonnino, Mustafa Al-Bassam, Argyrios Tasiopoulos and Ioannis Psaras.<br>IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2019.
 
