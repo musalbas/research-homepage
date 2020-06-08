@@ -14,6 +14,8 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Peer-reviewed publications
 
+- [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.<br>IEEE European Symposium on Security and Privacy, 2020.
+
 - [SoK: Consensus in the Age of Blockchains](publications/SoK_ConsensusBlockchains.pdf)<br>Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn and George Danezis.<br>Advances in Financial Technologies (AFT), 2019.
 
 - [Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks](publications/pop.pdf)<br>Michał Krol, Alberto Sonnino, Mustafa Al-Bassam, Argyrios Tasiopoulos and Ioannis Psaras.<br>IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2019.
@@ -32,11 +34,9 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Preprints
 
-- [SoK: Communication Across Distributed Ledgers](publications/crosschain.pdf)<br>Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias and William J. Knottenbelt.
+- [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)<br>Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias and William J. Knottenbelt.
 
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](publications/lazyledger-paper.pdf)<br>Mustafa Al-Bassam.
-
-- [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.
 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
 
