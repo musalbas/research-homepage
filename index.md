@@ -7,7 +7,7 @@ title: Mustafa Al-Bassam - Research Homepage
 
 **Update (25/05/2021):** I am no longer at UCL, having graduated with a PhD. This page is no longer updated. My thesis was on [Securely Scaling Blockchain Base Layers](https://discovery.ucl.ac.uk/id/eprint/10117245/). I am now working to [commercialise my work on LazyLedger](https://lazyledger.org).
 
-I was a PhD student at the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) of the [Department of Computer Science](http://www.cs.ucl.ac.uk/) at [University College London](http://www.ucl.ac.uk/). I joined in October 2016. My supervisors were [Professor George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) and [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/).
+I was a PhD student at the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) of the [Department of Computer Science](http://www.cs.ucl.ac.uk/) at [University College London](http://www.ucl.ac.uk/). I joined in October 2016. My supervisors were [Professor George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) and [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/).
 
 My research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.
 
