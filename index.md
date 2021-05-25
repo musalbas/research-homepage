@@ -5,7 +5,9 @@ title: Mustafa Al-Bassam - Research Homepage
 
 <img class="profile-picture" src="photo.jpg">
 
-I am a PhD student at the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) of the [Department of Computer Science](http://www.cs.ucl.ac.uk/) at [University College London](http://www.ucl.ac.uk/). I joined in October 2016. My supervisors are [Professor George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) and [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/).
+**Update (25/05/2021):** I am no longer at UCL, having graduated with a PhD. This page is no longer updated. My thesis was on [Securely Scaling Blockchain Base Layers](https://discovery.ucl.ac.uk/id/eprint/10117245/). I am now working to [commercialise my work on LazyLedger](https://lazyledger.org).
+
+I was a PhD student at the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) of the [Department of Computer Science](http://www.cs.ucl.ac.uk/) at [University College London](http://www.ucl.ac.uk/). I joined in October 2016. My supervisors were [Professor George Danezis](http://www0.cs.ucl.ac.uk/staff/G.Danezis/) and [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/).
 
 My research interests include the intersections of peer-to-peer systems, distributed ledgers and information security.
 
@@ -13,6 +15,10 @@ Email: [m.albassam@cs.ucl.ac.uk](mailto:m.albassam@cs.ucl.ac.uk)<br>
 Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com/musalbas) / [GitHub](https://github.com/musalbas) / [LinkedIn](https://www.linkedin.com/in/musalbas)
 
 ## Peer-reviewed publications
+
+- [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)<br>Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias and William J. Knottenbelt.<br>Financial Cryptography and Data Security (FC), 2021.
+
+- [Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Vitalik Buterin and Ismail Khoffi.<br>Financial Cryptography and Data Security (FC), 2021.
 
 - [Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers](publications/byzcuit.pdf)<br>Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam and George Danezis.<br>IEEE European Symposium on Security and Privacy, 2020.
 
@@ -34,11 +40,7 @@ Links: [Personal Homepage](https://musalbas.com) / [Twitter](https://twitter.com
 
 ## Preprints
 
-- [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)<br>Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias and William J. Knottenbelt.
-
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](publications/lazyledger-paper.pdf)<br>Mustafa Al-Bassam.
-
-- [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](publications/fraudproofs.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino and Vitalik Buterin.
 
 - [Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations](publications/airtnt.pdf)<br>Mustafa Al-Bassam, Alberto Sonnino, Michał Król and Ioannis Psaras.
 
